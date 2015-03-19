@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>82B8D540-DF31-4E2B-8B9C-3C111FB04B29</string>
+	<key>IDESourceControlProjectName</key>
+	<string>code-test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>05B72D0BEDEDAB0B09F82D9B5ADBCE4C7ADCF5D1</key>
+		<string>github.com:premosystems/making-chocolate.git</string>
+		<key>32354681D901DAEF3C7887D7E4F720D2E3A52063</key>
+		<string>gist.github.com:/03e8237398b8e5805dcb.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>code-test/code-test.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>05B72D0BEDEDAB0B09F82D9B5ADBCE4C7ADCF5D1</key>
+		<string>../../..</string>
+		<key>32354681D901DAEF3C7887D7E4F720D2E3A52063</key>
+		<string>../../../../03e8237398b8e5805dcb</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:premosystems/making-chocolate.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>05B72D0BEDEDAB0B09F82D9B5ADBCE4C7ADCF5D1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>32354681D901DAEF3C7887D7E4F720D2E3A52063</string>
+			<key>IDESourceControlWCCName</key>
+			<string>03e8237398b8e5805dcb</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>05B72D0BEDEDAB0B09F82D9B5ADBCE4C7ADCF5D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>making-chocolate</string>
+		</dict>
+	</array>
+</dict>
+</plist>
